@@ -651,7 +651,7 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "20 FEB 12:00H"
+                                                children: "21 FEB 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
@@ -663,7 +663,7 @@
                                                 children: " (excluding gas fees) "
                                             }), Object(N.jsx)("h2", {
                                                 className: "mint-limited text-shadow",
-                                                children: "LIMITED SALE"
+                                                children: "EXCLUSIVE SALE"
                                             })]
                                         }), Object(N.jsxs)("h3", {
                                             className: "mint-count",
